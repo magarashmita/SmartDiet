@@ -7,7 +7,6 @@ Modified for personal educational purpose. Besides the work that is added mentio
 
 
 <h1 align="center">Diet Recommendation System</h1>
-<div align= "center"><img src="Assets/logo_img1.jpg" />
   <h4>A diet recommendation web application using content-based approach with Scikit-Learn, FastAPI and Streamlit.</h4>
 </div>
 
@@ -27,7 +26,6 @@ A food recommendation engine using a content-based approach is an important tool
 
 ### What is a content-based recommendation engine?
 A content-based recommendation engine is a type of recommendation system that uses the characteristics or content of an item to recommend similar items to users. It works by analyzing the content of items, such as text, images, or audio, and identifying patterns or features that are associated with certain items. These patterns or features are then used to compare items and recommend similar ones to users.
-<div align= "center"><img src="Assets/content_based_img.webp" /></div>
 
 ### Why content-based approach?
 
