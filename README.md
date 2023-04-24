@@ -61,11 +61,6 @@ By using Docker, you can ensure that the environment in which the application is
 #### Docker-Compose
 My project is composed of different services (frontend,API). Therefore, our application should run on multiple containers. With the help of Docker-compose we can share our application using the yaml file that define the services that runs together.
 
-### Project Architecture
-
-<div align= "center"><img src="Assets/Architecture_diagram.png" width="600" height="400"/></div>
-
-
 ## :rocket: Technologies
 The project is created with:
 * Python: 3.10.8
