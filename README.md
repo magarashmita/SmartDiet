@@ -78,9 +78,13 @@ The project is created with:
 ## :whale: Setup
 
 ### Run it locally
-#### Clone the repo
+#### Clone this repo for recommendation sytem only
 ```
 $ git clone https://github.com/zakaria-narjis/Diet-Recommendation-System
+```
+#### Clone this repo for recommendation sytem and user authentication
+```
+$ git clone https://github.com/magarashmita/SmartDiet
 ```
 ### docker-compose
 In the project root run:
@@ -90,6 +94,6 @@ $ docker-compose up -d --build
 Then open http://localhost:8501 and enjoy :smiley:.
 
 PS: You should have docker and docker-compose already installed
-### Use the hosted version on Streamlit Cloud
+### Use the hosted version on Streamlit Cloud which gives recommendation.
 
 https://diet-recommendation-system.streamlit.app/
